@@ -74,3 +74,7 @@ Rust楽しい
 - React
   - muse
   - pnpm
+- Rust
+  - 列挙型
+    - バリアント
+    - match
